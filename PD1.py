@@ -1,7 +1,9 @@
+# JPPT - praca domowa
+# Damian Szymczyk 
 x = 1
 number_list = []
 while x != 0:
-    x = float(input(" Podaj liczbe: "))
+    x = float(input(" Give me a number: "))
     number_list.append(x)
 
 even_number_list = []
