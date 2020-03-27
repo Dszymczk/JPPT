@@ -1,3 +1,5 @@
+# JPPT - praca domowa
+# Damian Szymczyk
 class Samochod:
     def __init__(self):
         self.__marka = "NA"
